@@ -1,0 +1,7 @@
+ML Model Name,Observation about model performance
+Logistic Regression,"Linear model. Test F1: 98.33%, CV F1: 97.41% (+/- 1.34%), AUC: 0.9997. Achieved exceptional performance and outstanding generalization. Extremely stable decision boundary with minimal overfitting."
+Decision Tree,"Non-linear model. Test F1: 95.82%, CV F1: 97.28% (+/- 0.36%), Recall: 95.56%. Highly interpretable, but is prone to slightly higher variance than the ensemble forest model."
+KNN,"Distance-based. Test F1: 79.50%, CV F1: 76.15% (+/- 2.50%), Recall: 70.00%. Massive class imbalance affects nearest-neighbor voting, yielding a lower recall as it is sensitive to dense regions of class 0."
+Naive Bayes,"Probabilistic. Test F1: 64.86%, CV F1: 67.19% (+/- 1.90%), Recall: 100.00%. Achieved maximum recall (100.0%) by predicting many false positives, thus sacrificing precision (48.0%)."
+Random Forest (Ensemble),"Ensemble model. Test F1: 96.09%, CV F1: 96.77% (+/- 0.53%), MCC: 0.9584. Balanced class weights mitigate dataset skewness, leading to robust generalization and stable F1 score across cross-validation folds."
+Overall Winner,"The best overall performer is Logistic Regression. It achieves the most balanced metric profile with F1-Score: 98.33%, 5-Fold CV F1: 97.41%, and AUC-ROC: 0.9997. It shows high consistency across folds (standard deviation of 1.34%), correctly identifying student risk with high confidence and minimal false alarms."

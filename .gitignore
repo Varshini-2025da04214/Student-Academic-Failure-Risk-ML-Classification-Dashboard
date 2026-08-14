@@ -1,0 +1,14 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE configurations
+.vscode/
+.idea/
+.ipynb_checkpoints/
+
+# Operating system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
