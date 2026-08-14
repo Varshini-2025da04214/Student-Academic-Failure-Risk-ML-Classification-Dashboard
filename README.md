@@ -139,8 +139,8 @@ To run this project on your system:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Varshini-2025da04214/student_health_ml_assignment.git
-   cd student_health_ml_assignment
+    git clone https://github.com/Varshini-2025da04214/Student-Academic-Failure-Risk-ML-Classification-Dashboard.git
+    cd Student-Academic-Failure-Risk-ML-Classification-Dashboard
    ```
 2. Install dependencies:
    ```bash
@@ -158,9 +158,9 @@ To run this project on your system:
 ---
 
 ## 12. GitHub Repository
-[https://github.com/Varshini-2025da04214/student_health_ml_assignment](https://github.com/Varshini-2025da04214/student_health_ml_assignment)
+[https://github.com/Varshini-2025da04214/Student-Academic-Failure-Risk-ML-Classification-Dashboard](https://github.com/Varshini-2025da04214/Student-Academic-Failure-Risk-ML-Classification-Dashboard)
 
 ---
 
 ## 13. Live Streamlit App
-[https://student-health-ml-assignment.streamlit.app/](https://student-health-ml-assignment.streamlit.app/)
+[https://student-academic-failure-risk-dashboard.streamlit.app/](https://student-academic-failure-risk-dashboard.streamlit.app/)
