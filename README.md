@@ -161,6 +161,3 @@ To run this project on your system:
 [https://github.com/Varshini-2025da04214/Student-Academic-Failure-Risk-ML-Classification-Dashboard](https://github.com/Varshini-2025da04214/Student-Academic-Failure-Risk-ML-Classification-Dashboard)
 
 ---
-
-## 13. Live Streamlit App
-[https://student-academic-failure-risk-dashboard.streamlit.app/](https://student-academic-failure-risk-dashboard.streamlit.app/)
