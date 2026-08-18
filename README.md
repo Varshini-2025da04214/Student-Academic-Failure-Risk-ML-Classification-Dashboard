@@ -162,4 +162,4 @@ To run this project on your system:
 
 ---
 ## Streamlit Link
-[https://62f49f5cb4fe46.lhr.life/]
+[https://student-academic-failure-risk-ml-classification-dashboard-dahc.streamlit.app/]
