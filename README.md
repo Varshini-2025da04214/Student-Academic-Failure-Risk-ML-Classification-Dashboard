@@ -162,4 +162,4 @@ To run this project on your system:
 
 ---
 ## Streamlit Link
-[https://student-health-ml-varshini.loca.lt/]
+[https://ed53cd17ecf1ed.lhr.life/]
